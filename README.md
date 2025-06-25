@@ -1,16 +1,29 @@
-## Hi there 👋
+## Olá! Me chamo João Borges, sou um estudante de ciência da computação na UFSCar, estou atualmente no 3° período. Sou uma pessoa curiosa por natureza, buscando sempre aprender coisas novas.
 
-<!--
-**borgessjoao/borgessjoao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Estou iniciando uma carreira como Dev Backend!
 
-Here are some ideas to get you started:
+- 🌱 Atualmente estou estudando:
+  - Git e GitHub de forma mais profissional
+  - JavaScript
+  - Desenvolvimento com frameworks como React e Node.js
+  - Práticas de Clean Code e design patterns
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🚀 Meus interesses incluem:
+  - Desenvolvimento Web (Backend)
+  - Algoritmos e estruturas de dados
+
+- ⚡ Linguagens que possuo familiaridade
+    - C
+    - Java
+
+ - 🧪 Projetos
+    - Em breve...
+
+---
+- 🎯 Buscando ligar teoria à prática para construir soluções úteis.
+
+## 📫 Como me encontrar:
+  - [Meu LinkedIn](https://www.linkedin.com/in/joão-borges-aa8aa7302/)
+  - email: joaoborges404@gmail.com
+    
+

@@ -1,4 +1,4 @@
-## Olá! Me chamo João Borges, sou um estudante de ciência da computação na UFSCar, estou atualmente no 4° período. Sou uma pessoa curiosa por natureza, buscando sempre aprender coisas novas.
+## Olá! Me chamo João Borges, sou um estudante de ciência da computação na UFSCar, estou atualmente no 5° período. Sou uma pessoa curiosa por natureza, buscando sempre aprender coisas novas.
 
 - 🔭 Estou iniciando uma carreira como Dev Backend!
 
@@ -13,11 +13,13 @@
   - Algoritmos e estruturas de dados
   - Programação Orientada a Objetos
   - Engenharia de Software
+  - Contrução de APIs REST escaláveis
 
 - ⚡ Linguagens que possuo familiaridade
     - C
     - Java
-    - JavaScript
+    - JavaScript (Express/ React)
+    - Python (Flask)
       
 
  - 🧪 Projetos
